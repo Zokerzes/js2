@@ -19,6 +19,7 @@ section {
 
 .center-panel {
   flex-direction: column;
+  flex-wrap: wrap;
   margin: 10px;
   width: 80%;
   padding-left: 10px;
